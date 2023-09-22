@@ -1,2 +1,2 @@
 # AutoRecon
-It uses a combination of passive and active techniques to gather information. Passive techniques include monitoring network traffic and analyzing publicly available information, while active techniques involve sending probes and queries to the target system to identify open ports, services, and other system information.
+This script automates a wide range of Cybersecurity Tasks, including Subdomain Discovery, Vulnerability Scanning, and Reconnaissance. It helps security professionals identify potential weaknesses and security issues in a target domain, allowing them to proactively address these concerns to enhance overall security.
